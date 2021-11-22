@@ -30,4 +30,6 @@ ul > li, ol > li {
    text-align: left;
    font-size: 20px;    
    color: lightblue;
+   background-color: rgba(21, 87, 65, 0.829);
+   padding: 8px;
 }
