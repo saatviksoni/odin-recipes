@@ -1,0 +1,33 @@
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 70px;
+    border: 10px dotted green;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 30px;
+    color: indigo;
+}
+.head {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 35px;
+    background-color: rgba(127, 255, 212, 0.541);
+    border:2px solid aquamarine;
+    width: 300px;
+    height: auto;
+    padding: 8px;
+    margin: 10px;
+}
+.subhead{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 25px;
+}
+ul > li, ol > li {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: left;
+   font-size: 20px;    
+   color: lightblue;
+}
